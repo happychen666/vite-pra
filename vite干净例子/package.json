@@ -1,0 +1,16 @@
+{
+  "name": "vite-pra",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "marked": "^11.1.0",
+    "qs": "^6.11.2",
+    "vite": "^5.0.10"
+  }
+}
